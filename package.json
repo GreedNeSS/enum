@@ -1,0 +1,19 @@
+{
+  "name": "enum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0-simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedNeSS/enum.git"
+  },
+  "author": "GreeD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreedNeSS/enum/issues"
+  },
+  "homepage": "https://github.com/GreedNeSS/enum#readme"
+}
